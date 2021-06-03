@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The infamous history of Sir Simon Synod, and his sonne Sir John Presbyter. Describing the acts of their youth, autumne, and old age. With the nature and desperatenesse of the disease, whereof they both lye now sick. With the desires of Sir Iohn Presbyter. Written with his owne hand, and dedicated to his deare brethren, likely to survive him.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87255</idno><idno type="EEBO-CITATION">99862294</idno>
+  <idno type="VID">160429</idno>
+  <idno type="EEBO-PROQUEST">2240960217</idno>
+  
+            <idno type="STC">Wing I160</idno>
+            <idno type="STC">Thomason E401_31</idno>
+            <idno type="STC">ESTC R201800</idno>
+            <idno type="PROQUEST">99862294</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862294e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87255)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160429)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E401[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The infamous history of Sir Simon Synod, and his sonne Sir John Presbyter. Describing the acts of their youth, autumne, and old age. With the nature and desperatenesse of the disease, whereof they both lye now sick. With the desires of Sir Iohn Presbyter. Written with his owne hand, and dedicated to his deare brethren, likely to survive him.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="meeting_name">Westminster Assembly (1643-1652) --  Fiction --  Early works to 1800.</term>
+               <term type="topical_term">Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160429:1"/>
+            <p>The Infamous HISTORY OF Sir SIMON SYNOD, And his Sonne Sir JOHN PRESBYTER.</p>
+            <p>Describing The Acts of their Youth, Au<g ref="char:EOLhyphen"/>tumne, and Old Age.</p>
+            <p>With the nature and desperatenesse of the Dis<g ref="char:EOLhyphen"/>ease, whereof they both lye now sick.</p>
+            <p>With the Desires of Sir <hi>Iohn Presbyter.</hi>
+            </p>
+            <p>Written with his owne hand, and dedicated to his deare <hi>BRETHREN,</hi> likely to survive him.</p>
+            <p>Printed in the Yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:160429:2"/>
+            <pb n="1" facs="tcp:160429:2"/>
+            <head>The Infamous History of Sir <hi>Si<g ref="char:EOLhyphen"/>mon Synod,</hi> and his Sonne <hi>Iohn Presbyter.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Ir <hi>Simon Synod</hi> was the son of Sir <hi>Lau<g ref="char:EOLhyphen"/>rence Lewd Church,</hi> and during his mi<g ref="char:EOLhyphen"/>nority was fostered at <hi>Geneva,</hi> but af<g ref="char:EOLhyphen"/>ter he came to maturity, <hi>Andrew Mel<g ref="char:EOLhyphen"/>vil</hi> and <hi>Peter Carmichael</hi> brought him into <hi>Scotland,</hi> where he begat a Sonne, called, <hi>Pres<g ref="char:EOLhyphen"/>bytery;</hi> who after he grew tall of stature, like a tray<g ref="char:EOLhyphen"/>terous subject, not onely denyed to obey, but op<g ref="char:EOLhyphen"/>posed even the<note place="margin">K. Jamest</note> King himselfe; and knowing that the Kings ordinary Apothegme was, <hi>No Bishop, no King,</hi> hee therefore wisely incited the Seditious Commons to pull downe the Bishops first, so to make him way to dis-inthrone the King: which bu<g ref="char:EOLhyphen"/>sinesse hee effected, to the infinite trouble of the Kingdome, and the unspeakable griefe of the King, who now of a glorious Prince was made a poore va<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aile, and his Walkes that before were furnished with sweet Cedars, were now planted with stinking Elders, so that the said King was made a weary of his life, while expectants (a kinde of Saplins thri<g ref="char:EOLhyphen"/>ving under the shade of an Elder, and no where else) beardlesse boyes, durst to revile him to his face (as
+<pb n="2" facs="tcp:160429:3"/>the said King complaineth) but after in processe of time it hapned the said King was elected King of <hi>England</hi> also, then hee left Sir <hi>Iohn Presbyter,</hi> for a Knight hee was, <hi>Pl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>to</hi> had made him one of his own Knights of the Ferry, and dipt him in <hi>Stix,</hi> to make him formidable to rule the roast with the ruling whuling Elders; his sonne King <hi>Charles</hi> comming to the Crowne, Sir <hi>Simon Synod,</hi> and his sonne <hi>Iack Presbyter</hi> devised how they might get superiority in <hi>England,</hi> and for that end they began to consult with the reverend copper-nos'd Hypocrite the <hi>L. S.</hi> and hee began to speake to those of his Faction, till in the end they agreed with pittifull <hi>Case,</hi> doughty <hi>Hambden,</hi> and hee that bearing the Law and Gospel betwixt his two hands (as <hi>Moses</hi> once the two Ta<g ref="char:EOLhyphen"/>bles of the Law) and like him hath broken them to pieces, whom of all the vessels of clay wee cannot properly tearme a pitcher, and yet his harvest eares will heare more then is true against the Army, and his lying pen divu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that which <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll <hi>Romances</hi> in the world c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnot paral<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el, and the credulous, easie-per<g ref="char:EOLhyphen"/>swaded P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>byteri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns acc<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t it <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> part of their Creed; countenanc'd by these bold bean-stalkes, up comes Sir <hi>Simon Sy<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> and his sonne <hi>Iack P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>sbyter</hi> to <hi>London,</hi> bearing an infallible spirit about them (no doubt as <hi>Ulysses</hi> once the winds) in a bag, and then hey for my gud Lord <hi>Lowdens</hi>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>sper<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e; then Sir <hi>Simon Synod</hi> in his Chaire of S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate, devis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th by what meanes he may adv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce his sonne <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>resbyter <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ack</hi> in <hi>England,</hi> to transforme our English Hats in<g ref="char:EOLhyphen"/>to B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew Bonnets, and our <hi>Brittish</hi> Cloakes-into <hi>Sco<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tish</hi> Jackets; O brave <hi>Iockey,</hi> and now O for
+<pb n="3" facs="tcp:160429:3"/>the sacred Ordinance for Tythes, which Sir <hi>E. A.</hi> will maintaine to be <hi>Jure Divino,</hi> in regard himselfe loveth to tythe his Neighbours wives, beating them down by dozens as <hi>Edw.</hi> the 3. the <hi>French</hi> by scores. Now the fat Presbyterian Priests sweare to eate Pigs both roasted and bak't, but their Parishioners tell them they take a wrong Sow by the care, if they thinke their idlenesse and letchery shall be so dain<g ref="char:EOLhyphen"/>tily pampered; at which Sir <hi>Simon Synod</hi> being angry, call'd his sonne <hi>Jack Presbyter</hi> unto him, and willed him to pluck downe all their Apple Trees, and to graft in the room of each of them the sacred Tree whereon holy <hi>Iudas</hi> hang'd himselfe; but it greatly puzled the holy crew, how and where they should finde <hi>Susanna's,</hi> a competent number, to sit under the shade of these Elders, when Doctor <hi>La<g ref="char:EOLhyphen"/>mapha</hi> (he that got three Maids with child at once, and was therefore convicted and arraigned, entred into obligation, that hee would furnish them with as many as they did then, or should afterward stand in need of; ha, ha, ha, when Pigs were tything, Elders were ruling, <hi>Case</hi> and <hi>Cawdrey</hi> were whuling, and that Presbyterian <hi>Hercules</hi> hewing downe all the godly, whom his vencrable Ignorant ship in his hodge-podg'd <hi>Gangrena</hi> termes Hereticks, Sectaries, and Schismaticks, in comes a Messenger, bringing Letters, on the Frontispiece whereof were writ<g ref="char:EOLhyphen"/>ten, <hi>THE DESIRES OF THE ARMY:</hi> Sir. <hi>Si<g ref="char:EOLhyphen"/>mon Synod,</hi> and his Sonne <hi>Presbyter Iacke</hi> were smitten with great feare and dread at the view<g ref="char:EOLhyphen"/>ing thereof, and on a sudden became very dan<g ref="char:EOLhyphen"/>gerously sicke, and were carried home in a Sedan:
+<pb n="4" facs="tcp:160429:4"/>Doctor <hi>Bastwick,</hi> that voluminous <hi>Heretrodox,</hi> im<g ref="char:EOLhyphen"/>mediately sent for, who casting their waters, found them too dangerously and desperately sick, and their Disease incur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble, for that Sir <hi>Simon Synod</hi> lay alreadie speechlesse, and that the Army had by their late desires so clasht together the C L. Asses, <hi>quasi</hi> the hundred &amp; fif<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie — that they would never be able to walke the Round; had by their particu<g ref="char:EOLhyphen"/>lar Charge pull'd up the new-planted Elders by the rootes, and for ever so maymed and disabled <hi>Iack Presbyter,</hi> that he would never be able to arise from the Bed whereon he lay, untill he were borne from thence, and transported into <hi>Scotland,</hi> there to be buried in a Ditch. Sir <hi>Iohn Presbyter</hi> then percei<g ref="char:EOLhyphen"/>ving his houre of Death drew nigh (for as the Ar<g ref="char:EOLhyphen"/>mie encreased, his faculties were weakened) calling for Pen, Inke, and Paper, wrote these his Desires, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be observed by his deare Brethren, the <hi>Presbyterian</hi> Priests and Laytie.</p>
+            <div type="letter">
+               <head>Sir IOHN PRESBYTER his Desires <hi>to his deare Brethren.</hi>
+               </head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>DEare Brethren, you know right well, how even till the day of my Death I invented all wayes and meanes to advance you to fat and greasie Bene<g ref="char:EOLhyphen"/>fices, (I speake first to you of the Clergie, for with you I have beene most intimate) how I have sought all wayes to furnish your Houses with Plundred Goods, your Studies with Plundred Bookes; have
+<pb n="5" facs="tcp:160429:4"/>joyned with my deare Father, Sir <hi>Simon Synod,</hi> in bespeaking for you all Funerall Sermons, that you with the rest, when a rich fat <hi>Presbyterian</hi> Hog dyed, might have a Chine of him; that you might have Annuities out of the Bishops Lands, whereby with the rest of your super abundant Commings in, you might be enabled to put out yet vaster Summes to Use, to maintaine your Wives with their Tayles hemm'd round with Silver and Gold Lace, to hang your Roomes with Arras, and (with the rich Glut<g ref="char:EOLhyphen"/>ton) to be Clothed delicately, and fare deliciously every day. Thus have I done for you, my deare Brethren of the Clergie: but for you, my deare Brethren of the Laytie, I have little to say, onely some matter of thanks for your Nocturnall studies, and indefatigable cares, in seeking to enslave your selves under a worse then <hi>Spanish</hi> Inquisition; and I entreat you out of pitie, considering with my selfe the deplorable Condition wherein I shall leave you, that since you cannot attaine your <hi>jure Divino,</hi> that you would still preserve your selves <hi>jure Hu<g ref="char:EOLhyphen"/>mane:</hi> And now to you all in generall, I desire you when I am dead, to defend my Corps from being devoured of Dogs, and let me be buried decently, without Musick (I meane, the Ringing of Bells) while all my well-willers, standing round in a Ring about my Grave, to a very dolefull Tune chaunt this Elegie:</p>
+                     <lg>
+                        <l>
+                           <hi>ALack, Alack, and well-aday,</hi>
+                        </l>
+                        <l>Jack Presbyter <hi>is dead,</hi>
+                        </l>
+                        <l>
+                           <hi>And all our hopes with griefe we say,</hi>
+                        </l>
+                        <l>
+                           <hi>are wrapt with him in Lead.</hi>
+                        </l>
+                     </lg>
+                     <pb n="6" facs="tcp:160429:5"/>
+                     <lg>
+                        <l>
+                           <hi>He well could prate in Church or House,</hi>
+                        </l>
+                        <l>
+                           <hi>could rayse Dissentions many;</hi>
+                        </l>
+                        <l>
+                           <hi>Therefore his Corps in teares we sonse,</hi>
+                        </l>
+                        <l>
+                           <hi>for like him ne'r was any.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi>He bound himselfe by solemne Oath,</hi>
+                        </l>
+                        <l>
+                           <hi>to ruinate his King,</hi>
+                        </l>
+                        <l>
+                           <hi>For to rebell he pled<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>d his Troth</hi>
+                        </l>
+                        <l>
+                           <hi>most serious,</hi> Jack Pudding.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi>He chang'd the Pray<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>r his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>aviour made,</hi>
+                        </l>
+                        <l>
+                           <hi>for new ones of his own<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>,</hi>
+                        </l>
+                        <l>Extempore <hi>
+                              <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e all things said,</hi>
+                        </l>
+                        <l>
+                           <hi>for which to Hell hee's gone.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi>Alack, Alack, and well aday,</hi>
+                        </l>
+                        <l>Jack Presbyter <hi>is dead,</hi>
+                        </l>
+                        <l>
+                           <hi>And all our hopes with griefe we say,</hi>
+                        </l>
+                        <l>
+                           <hi>are wrapt with him in Lead.</hi>
+                        </l>
+                     </lg>
+                  </body>
+               </floatingText>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
